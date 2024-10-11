@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedh0101&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedh0101" /> </p>
 
-- Currently Learning: **Flutter Framework**
-
-- Aims: **Network+, Security+**
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
